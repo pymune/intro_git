@@ -4,5 +4,6 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 自分でコミットの練習
